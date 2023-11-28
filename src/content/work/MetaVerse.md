@@ -1,9 +1,9 @@
 ---
 title: Prototyping MetaVerse
 publishDate: 2023-11-01 00:00:00
-img: /assets/stock-2.jpg
+img: /assets/MetaVerseDemo.PNG
 img_alt: Metaverse Photo
-imgLogo: /assets/stock-1.jpg
+imgLogo: /assets/MetaVerseLogo.PNG
 imgLogo_alt: MetaVerse Logo
 description: |
   Prototyping a VR and Web application for the Pau Metaverse still in production.

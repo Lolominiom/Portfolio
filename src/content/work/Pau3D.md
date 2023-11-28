@@ -1,8 +1,8 @@
 ---
 title: Pau3D
 publishDate: 2023-08-02 00:00:00
-img: /assets/Pau3D_photo.PNG
-img_alt: Pau3D Photo
+img: /assets/Pau3D_Demo.gif
+img_alt: Pau3D demo
 imgLogo: /assets/Pau3D_Logo.PNG
 imgLogo_alt: Pau3D Logo
 description: |
